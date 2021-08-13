@@ -11,27 +11,27 @@
 Multiparts:		<none>
 Body:
 {
-    "id": 0,
+    "id": 1974080145,
     "category": {
         "id": 1,
-        "name": "dog"
+        "name": "AX2345LORT"
     },
-    "name": "Snoopy",
+    "name": "Bolinha",
     "photoUrls": [
         "string"
     ],
     "tags": [
 
         {
-            "id": 2021,
-            "name": "sta"
+            "id": 20210812,
+            "name": "data"
 
         }
     ],
     "status": "available"
 }
 HTTP/1.1 200 OK
-%Date: Thu, 12 Aug 2021 02:40:33 GMT
+%Date: Fri, 13 Aug 2021 00:31:39 GMT
  Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -41,22 +41,64 @@
  Server: Jetty(9.2.9.v20150224)
 
 {
-    "id": 9223372000001118319,
+    "id": 1974080145,
     "category": {
         "id": 1,
-        "name": "dog"
+        "name": "AX2345LORT"
     },
-    "name": "Snoopy",
+    "name": "Bolinha",
     "photoUrls": [
         "string"
     ],
     "tags": [
 
         {
-            "id": 2021,
-            "name": "sta"
+            "id": 20210812,
+            "name": "data"
 
         }
     ],
     "status": "available"
 }
+Request method:	GET
+<Request URI:	https://petstore.swagger.io/v2/pet/1974080145
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+%Date: Fri, 13 Aug 2021 00:31:41 GMT
+ Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+ Access-Control-Allow-Origin: *
+6Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+DAccess-Control-Allow-Headers: Content-Type, api_key, Authorization
+ Server: Jetty(9.2.9.v20150224)
+
+{
+    "id": 1974080145,
+    "category": {
+        "id": 1,
+        "name": "AX2345LORT"
+    },
+    "name": "Bolinha",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+
+        {
+            "id": 20210812,
+            "name": "data"
+
+        }
+    ],
+    "status": "available"
+}
